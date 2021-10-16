@@ -52,12 +52,12 @@ module.exports = {
         display: 'swap',
       },
     },
-    {
-      resolve: `gatsby-source-dev`,
-      options: {
-        username: 'fu4303',
-      },
-    },
+   // {
+   //   resolve: `gatsby-source-dev`,
+   //   options: {
+   //     username: 'fu4303',
+   //   },
+   // },
     'gatsby-plugin-purgecss',
     {
       resolve: `gatsby-source-filesystem`,
