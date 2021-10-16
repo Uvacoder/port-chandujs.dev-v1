@@ -55,7 +55,7 @@ module.exports = {
     {
       resolve: `gatsby-source-dev`,
       options: {
-        username: 'uvacoder',
+        username: 'fu4303',
       },
     },
     'gatsby-plugin-purgecss',
