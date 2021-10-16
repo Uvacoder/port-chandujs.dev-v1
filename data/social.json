@@ -2,31 +2,21 @@
   {
     "icon": "dev",
     "service": "DEV Community",
-    "url": "https://dev.to/ctrleffive"
+    "url": "https://dev.to/fu4303"
   },
   {
     "icon": "github",
     "service": "GitHub",
-    "url": "https://github.com/ctrleffive"
-  },
-  {
-    "icon": "telegram",
-    "service": "Telegram",
-    "url": "https://t.me/ctrleffive"
-  },
-  {
-    "icon": "instagram",
-    "service": "Instagram",
-    "url": "https://instagram.com/ctrleffive"
+    "url": "https://github.com/uvacoder"
   },
   {
     "icon": "linkedin",
     "service": "LinkedIn",
-    "url": "https://linkedin.com/in/ctrleffive"
+    "url": "https://linkedin.com/in/alecbcampbell"
   },
   {
     "icon": "twitter",
     "service": "Twitter",
-    "url": "https://twitter.com/ctrleffive"
+    "url": "https://twitter.com/alec33478"
   }
 ]
