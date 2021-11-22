@@ -47,7 +47,7 @@ export default class IndexPage extends Component {
     return (
       <Wrap
         pageBg={<PageBg />}
-        description="Hi! 👋 I'm Chandu J S. I'm a full stack developer from Trivandrum. This is my portfolio website. Here you can see some of my work, articles & other information about me.">
+        description="Hi! 👋 I'm Lumberg. I'm a TPS reports savant.">
         <div
           css={css`
             top: 47%;
@@ -75,7 +75,7 @@ export default class IndexPage extends Component {
               I'm <span className="high">a</span>
             </div>
             <div className="text-break">
-              full stack <span className="high">developer</span>
+              boss at <span className="high">Inotech</span>
               <span className="blinker">.</span>
             </div>
           </h1>
